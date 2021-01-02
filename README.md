@@ -1,4 +1,4 @@
-# Beginner <a href"https://en.wikipedia.org/wiki/C%2B%2B"> C++</a> Practice Questions
+# <a href="https://en.wikipedia.org/wiki/C%2B%2B">Beginner C++ Practice Questions</a>
 
 <h3 style = "color:#e65758">C++ is a complicated language and requires a lot of practice to ace in it.</h3>
 These questions list is provided by Saurabh Shukla Sir. Thank you so much sir for helping us with this.

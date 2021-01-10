@@ -1,14 +1,16 @@
+
 <h2 align="center">H o l a &nbsp; A m i g o s <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 
+
 <pre>
-<h1 align="center"> Beginner C++ Practice Questions</h1>
+<h1 align="center">Beginner C++ Practice Questions</h1>
 <h3>C++ is a complicated language and requires a lot of practice to ace in it.</h3>
 These questions list is provided by Saurabh Shukla Sir. Thank you so much sir for helping us with this.
 <li><a href="https://www.mysirg.com/programming-examples/c-programs/">Program List</a></li>
 In this repository I shared all the questions that I practiced that helped me improve my C++.
 
-<li>Adding these these Questions here as a reference point for everyone</li>
-Feel free to add more questions to it that can make this a great resource for learning and understanding C++ semantics.
+Adding these these Questions here as a reference point for everyone.
+Feel free to add more questions to so that it can become a great learning source.
 </pre>
 
 <br>

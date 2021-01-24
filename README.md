@@ -11,11 +11,8 @@ In this repository I shared all the questions that I practiced that helped me im
 
 Adding these these Questions here as a reference point for everyone.
 Feel free to add more questions to so that it can become a great learning source.
-</pre>
 
-<br>
 
-<pre>
 <h2 align="center"> Array Questions </h2>
 <li>Question 1 - Write a program to calculate sum of all even numbers and sum of all odd numbers.</li>
 <li>Question 2 - Write a program to find greatest among 10 numbers.</li>
@@ -24,11 +21,8 @@ Feel free to add more questions to so that it can become a great learning source
 <li>Question 5 - Write a program to multiply two matrices, each of order 3×3.</li>
 <li>Question 6 - Program to generate 10 distinct number in given range.</li>
 <li>Question 7 - Program to rotate an array by n positions.</li>
-</pre>
 
-<br>
 
-<pre>
 <h2 align="center"> Loop Questions </h2>
 <li>Question 1 - Write a program to print Your name 5 times on the screen.</li>
 <li>Question 2 - Write a program to print first 10 natural numbers.</li>
@@ -54,11 +48,8 @@ Feel free to add more questions to so that it can become a great learning source
 <li>Question 23 - Write a program to calculate HCF of two numbers.</li>
 <li>Question 24 - Write a program to check whether a given number is prime or not.</li>
 <li>Question 25 - Write a program to print all prime numbers between two given numbers.</li>
-</pre>
 
-<br>
 
-<pre>
 <h2 align="center"> String Questions</h2>
 <li>Question 1 - Write a Program to calculate length of the string.</li>
 <li>Question 2 - Write a Program to calculate length of the string using strlen() function.</li>
@@ -68,4 +59,4 @@ Feel free to add more questions to so that it can become a great learning source
 <li>Question 6 - Write a program to check whether a string is palindrome or not.</li>
 <li>Question 7 - Write a program to count words in a sentence.</li>
 <li>Question 8 - Write a program to sort strings in dictionary order.</li>
-<pre>
+</pre>

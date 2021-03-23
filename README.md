@@ -62,4 +62,9 @@ Feel free to add more questions to so that it can become a great learning source
 <li>Question 6 - Write a program to check whether a string is palindrome or not.</li>
 <li>Question 7 - Write a program to count words in a sentence.</li>
 <li>Question 8 - Write a program to sort strings in dictionary order.</li>
+
+
+
+<h2 align="center">Practice Set</h2>
+<li>Question 1 - Minimizing the dot product.</li>
 </pre>

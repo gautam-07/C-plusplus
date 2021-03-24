@@ -1,11 +1,11 @@
 /*
 ************************************************************
-Name :- Gautam Khatter
-Date :- 23.03.2021
-Site :- Code Chef
+✣ Author :- Gautam Khatter
+✣ Date   :- 23.03.2021
+✣ Site   :- Code Chef
 ************************************************************
-Question :- Minimizing the dot product
-Link     :- https://www.codechef.com/problems/BITMASK2
+✣ Question :- Minimizing the dot product
+✣ Link     :- https://www.codechef.com/problems/BITMASK2
 ************************************************************
 */
 

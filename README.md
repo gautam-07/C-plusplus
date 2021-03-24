@@ -67,4 +67,5 @@ Feel free to add more questions to so that it can become a great learning source
 
 <h2 align="center">Practice Set</h2>
 <li>Question 1 - Minimizing the dot product.</li>
+<li>Question 2 - Sorting Tool.</li>
 </pre>

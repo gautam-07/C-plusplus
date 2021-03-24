@@ -1,3 +1,16 @@
+/*
+************************************************************
+Name :- Gautam Khatter
+Date :- 23.03.2021
+Site :- Code Chef
+************************************************************
+Question :- Minimizing the dot product
+Link     :- https://www.codechef.com/problems/BITMASK2
+************************************************************
+*/
+
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -38,3 +51,5 @@ int main()
    }
    return 0;
 }
+
+

@@ -1,11 +1,11 @@
 /*
 ************************************************************
-Name :- Gautam Khatter
-Date :- 24.03.2021
-Site :- Code Chef
+✣ Author :- Gautam Khatter
+✣ Date   :- 24.03.2021
+✣ Site   :- Code Chef
 ************************************************************
-Question :- Sorting tool
-Link     :- https://www.codechef.com/problems/KJCP01
+✣ Question :- Sorting tool
+✣ Link     :- https://www.codechef.com/problems/KJCP01
 ************************************************************
 */
 
